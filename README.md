@@ -20,7 +20,7 @@
 
 ### React Js Setup
 
-##### React with NPM <a name="reactnpm"></a>
+#### React with NPM <a name="reactnpm"></a>
 
 - Create App:
 
@@ -41,7 +41,7 @@
   npm run dev
   ```
 
-##### React with Yarn <a name="reactyarn"></a>
+#### React with Yarn <a name="reactyarn"></a>
 
 - Create App:
 
@@ -64,7 +64,7 @@
 
 ### Node Js Setup
 
-##### Node with NPM <a name="nodenpm"></a>
+#### Node with NPM <a name="nodenpm"></a>
 
 - Create project folder:
 
@@ -84,7 +84,7 @@
   npm i
   ```
 
-##### Node with Yarn <a name="nodeyarn"></a>
+#### Node with Yarn <a name="nodeyarn"></a>
 
 - Create project folder:
 
