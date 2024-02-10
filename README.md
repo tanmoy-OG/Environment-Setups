@@ -1,18 +1,18 @@
-# Environment-Setups
+# Environment Setups
+
+[VS Code Global Level User Setting](#vs-code)
+  [Steps to follow](#vs-code-steps)
+  [Settings.json](#vs-code-json)
 
 
 
-[TOC]
-
-
-
-## VS Code Global Level User Setting [setting.json]
+## VS Code Global Level User Setting [setting.json] <a name="vs-code"></a>
 
 ![VSCode](https://camo.githubusercontent.com/e81d11aac85343150bfcbb0f851f83ca3e8a1ba68b4cf8caaab304cb52c8cc4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465)
 
 ### 
 
-### Steps to follow
+### Steps to follow <a name="vs-code-steps"></a>
 
 1. Open VS Code.
 
@@ -28,7 +28,7 @@
    sudo dnf install fira-code-fonts
    ```
 
-### settings JSON
+### Settings.json <a name="vs-code-json"></a>
 
 ```json
 {
@@ -324,4 +324,3 @@
   }
 }
 ```
-
